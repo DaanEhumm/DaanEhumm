@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @DaanEhumm
+- 👋 Hi, I’m @Daan.EH
 -    This Acc is for school 
 -    All repos will either be tasks or projects  
