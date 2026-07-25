@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Daan.EH
--    This Acc is Mainly for school 
--    All repos will either be tasks or projects  
+-👋 Hi, I’m @Daan.EH
+-I recently got my degree in Software Development MBO 4 
+-Some repos here are school projects, some were made during an internship, and some Personal projects are still private..... Working on more :) 
